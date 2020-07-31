@@ -17,6 +17,8 @@ Here is an explanation of how it works.
 
 ```
 WELCOME:  // Words that end with a colon : are tags and indicate the start of a story branch.
+// The first line of any story script MUST BE A TAG
+// If it is not a tag the story will end immediately. 
 
 // Lines that start with DLG are dialog lines and will print dialog to the screen.
 DLG Hi, welcome to the game. Are you ready to begin? 

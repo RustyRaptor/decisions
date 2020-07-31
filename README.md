@@ -1,5 +1,6 @@
 # decisions
-A completely normal decision making game.
+A text base decision making game engine.
+Allows the creation of text based decision story games by writing a simple text file. 
 
 
 ## How it works

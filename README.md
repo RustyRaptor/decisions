@@ -16,7 +16,7 @@ An example script exists in the scripts folder.
 
 Here is an explanation of how it works. 
 
-```
+```C
 
 // BRANCHES
 WELCOME:  // Words that end with a colon : are branches and indicate the start of a story branch.

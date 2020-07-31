@@ -1,0 +1,30 @@
+WELCOME:
+DLG Hi, welcome to the game. Are you ready to begin?
+OPT YES -> BEGIN
+OPT NO  -> BEGINANYWAY
+OPT IDK -> BEGINANYWAY
+FIN
+
+
+BEGIN:
+DLG Okidokey, lets get started
+
+BEGINANYWAY:
+DLG Well too bad we are starting anyway.
+DLG Now pick a class.
+OPT ROGUE -> ROGUE
+OPT WARRIOR -> WARRIOR
+OPT MAGE -> MAGE
+FIN
+
+ROGUE:
+DLG AH the rogue. Agile and clever
+HALT
+
+WARRIOR:
+DLG Warrior powerful and brave
+HALT
+
+MAGE:
+DLG You are a mage, Master of the Arcana.
+HALT

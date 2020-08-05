@@ -2,6 +2,15 @@
 A text base decision making game engine.
 Allows the creation of text based decision story games by writing a simple text file. 
 
+## Setup for development
+1. Fork this repo to your own github account.
+2. Clone your version into IntelliJ Idea
+3. Make sure IntelliJ is using Java SDK 14
+  - TODO: Add instructions for this
+4. Make sure the src directory is set to your "sources"
+5. Open the Main class and right click it's tab at the top
+  - click "Run" in the rightclick menu
+
 
 ## How it works
 The program will read a script from the scripts folder.

@@ -6,8 +6,10 @@ Allows the creation of text based decision story games by writing a simple text 
 1. Fork this repo to your own github account.
 2. Clone your version into IntelliJ Idea
 3. Make sure IntelliJ is using Java SDK 14
-  - TODO: Add instructions for this
+  - Here are detailed instructions.
+  - https://imgur.com/a/KGvqWus
 4. Make sure the src directory is set to your "sources"
+  - It should be set to this by default. Try executing code in the src directory to test it. 
 5. Open the Main class and right click it's tab at the top
   - click "Run" in the rightclick menu
 
